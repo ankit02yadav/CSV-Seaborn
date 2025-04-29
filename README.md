@@ -1,4 +1,4 @@
-# 🎲 Random Dice & Marks Visualization
+# 🎲 Random Dice & Marks Visualization 
 This project contains two simple but illustrative data visualization tasks using Python's data science libraries: NumPy, Pandas, Seaborn, and Matplotlib. The visualizations include a simulation of dice rolls and a bar chart of students' marks across subjects.
 
 ## 📌 Features
